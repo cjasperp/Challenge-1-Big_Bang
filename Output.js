@@ -1,3 +1,5 @@
+//by Cornileus Jasper Patrick Laban
+
 let bigbang = [] 
 
 for (let i = 1; i <= 100; i++) {
